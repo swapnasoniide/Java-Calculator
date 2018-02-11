@@ -8,6 +8,7 @@ Run gradle build to build the application along with external dependencies
 
 Install Lombak for eclipse ide
 
+## Run
 Run StartCalculator.java to start the program
 
 ## Test
